@@ -1,0 +1,14 @@
+{
+  "model": "et_log",
+  "calib": false,
+  "variant": "train",
+  "a": 0.0,
+  "b": 1.0,
+  "ext_train": true,
+  "morgan": false,
+  "trees": 300,
+  "seed": 42,
+  "folds": 5,
+  "repeats": 3,
+  "cv_score_mse": null
+}

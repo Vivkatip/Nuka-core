@@ -1,0 +1,10 @@
+{
+  "w_model": 0.5,
+  "w_cluster": 0.5,
+  "clip_max": 2000.0,
+  "mse": 116220.57957544443,
+  "n_va": 62,
+  "lookup_train": 1,
+  "lookup_ext": 1,
+  "model_only": 60
+}
